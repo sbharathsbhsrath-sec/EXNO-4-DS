@@ -126,4 +126,4 @@ print('Selected features:', selectedFeatures)
 <img width="544" height="43" alt="image" src="https://github.com/user-attachments/assets/3b5b5288-22dc-480c-be3d-d74f45049547" />
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+successfuly get the result for Feature Scaling and Feature Selection process and save the
